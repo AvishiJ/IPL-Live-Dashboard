@@ -6,6 +6,9 @@ With the IPL 2024 season captivating cricket enthusiasts worldwide, our challeng
 ## Building the Solution
 Crafted to enhance user engagement throughout the IPL 2024 season, our intuitive dashboard offers up-to-date match scores, player statistics, and team rankings. This solution bridges the gap in accessing dynamic IPL data and ensures users are well-informed about ongoing events.
 
+![image](https://github.com/AvishiJ/IPL-Live-Dashboard/assets/93474251/1bff7de3-1a03-4976-86b5-dca1cd1685d3)
+
+
 ## Leveraging Data from Cricbuzz API
 Data is sourced from the Cricbuzz API, providing live updates and comprehensive cricket-related information. This ensures that our dashboard dynamically reflects the latest IPL 2024 match developments, offering users a seamless real-time experience.
 
